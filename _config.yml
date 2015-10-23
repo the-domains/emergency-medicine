@@ -1,0 +1,23 @@
+name: Emergency Medicine
+favicon: null
+layout_spectrum: 0.6151470409240574
+typography_spectrum: 0.3269957185257226
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.41966397827491164
+  lightness: 0.21828498342074454
+  saturation: 0.7619191261474043
+  rhythmicContrast: 0.6829249693546444
+purpose: []
