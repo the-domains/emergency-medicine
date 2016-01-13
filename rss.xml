@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Emergency Medicine]]></title>
+        <description><![CDATA[Emergency Medicine]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jan 2016 19:28:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ABEM - Home]]></title>
+            <description><![CDATA[<article><h1>ABEM - Home</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f28f938cba1516549b74229107de081ce5b15ba.jpg"></article>]]></description>
+            <link>https://www.abem.org/public/</link>
+            <guid isPermaLink="false">20c1ce0f-0ae2-4cf9-b0e0-57d9d8e52e6f</guid>
+            <pubDate>Wed, 13 Jan 2016 19:28:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
