@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Emergency Medicine]]></title>
         <description><![CDATA[Emergency Medicine]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/emergency-medicine/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 19:28:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 17:12:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/emergency-medicine/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A No-Wait ER At 1/10th The Cost And Half The Time]]></title>
+            <description><![CDATA[<article><h1>A No-Wait ER At 1/10th The Cost And Half The Time</h1><p>In 'I've Seen The Future Of Healthcare. I Like What I See,' I noted ZOOM+ had a radically different approach to emergency rooms. Now that ZOOM+ is also a health plan, it's logical that they would go after one of the biggest areas of unnecessary and expensive care-the ER.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9017c15270a1813b2f30073dac85f9c6961ca13.jpg"></article>]]></description>
+            <link>http://www.forbes.com/sites/davechase/2016/01/24/a-no-wait-er-at-110th-the-cost-and-half-the-time/?utm_medium=email&amp;utm_source=flipboard#3a8f47357832</link>
+            <guid isPermaLink="false">551010e9-a7d5-45bb-af86-97a8c7a9583f</guid>
+            <pubDate>Tue, 26 Jan 2016 17:11:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ABEM - Home]]></title>
-            <description><![CDATA[<article><h1>ABEM - Home</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f28f938cba1516549b74229107de081ce5b15ba.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>ABEM - Home</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10033f1998f7ea42b77b4816b6938cc88578711f.jpg"></article>]]></description>
             <link>https://www.abem.org/public/</link>
             <guid isPermaLink="false">20c1ce0f-0ae2-4cf9-b0e0-57d9d8e52e6f</guid>
             <pubDate>Wed, 13 Jan 2016 19:28:06 GMT</pubDate>
